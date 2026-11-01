@@ -1,0 +1,10 @@
+streamlit==1.66.1
+qiskit==1.4.6
+qiskit-aer==0.17.2
+networkx==3.7
+numpy
+pandas
+plotly
+scipy
+matplotlib
+reportlab
